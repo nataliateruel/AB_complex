@@ -1,4 +1,4 @@
-site,label_site,wildtype,mutation,condition,protein_chain,protein_site,mut_average_interact,mut_min_interact,mut_max_interact,mut_deviation,site_average_interact,site_min_interact,site_max_interact,site_deviation,p_values
+site,label_site,wildtype,mutation,condition,protein_chain,protein_site,mut_average_interact,mut_min_interact,mut_max_interact,mut_deviation,site_average_interact,site_min_interact,site_max_interact,site_deviation,site_pvalues
 336,C336,C,C,Alpha,E,336,0,0,0,0,0,0,0,0,1
 337,P337,P,P,Alpha,E,337,0,0,0,0,0,0,0,0,1
 338,F338,F,F,Alpha,E,338,0,0,0,0,0,0,0,0,1
